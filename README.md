@@ -1,6 +1,6 @@
 # Data Analytics & AI Course
 
-Welcome to Tech Moms' Data Analytics & AI Course! This course is designed to provide you with the foundational skills and knowledge needed to analyze data effectively. Throughout this course, we will cover a variety of topics, tools, and techniques essential for any aspiring data analyst.
+Welcome to Tech-Moms' Data Analytics & AI Course! This course is designed to provide you with the foundational skills and knowledge needed to analyze data effectively. Throughout this course, we will cover a variety of topics, tools, and techniques essential for any aspiring data analyst.
 
 ![iStock-1473508651 (2)](https://github.com/user-attachments/assets/66897ef3-d7e5-435f-8dfe-ccb735a96c87)
 
