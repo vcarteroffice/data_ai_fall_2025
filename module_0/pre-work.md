@@ -22,7 +22,7 @@ You can complete this task using either **Excel** or **Google Sheets** — which
 
 ### Step 2: Complete a Beginner Excel Video Tutorial Series
 
-Watch and follow along with the following tutorial series:
+- [x] Watch and follow along with the following tutorial series:
 
 - **[Excel Tutorials for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)** by Alex the Analyst (Can also be done in Google Sheets)
 
@@ -30,9 +30,9 @@ Watch and follow along with the following tutorial series:
 
 Using the skills you learned, create a simple spreadsheet dashboard ([following along with this video](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=7)) which will include:
 
-- [ ] Data cleaning or organization
-- [ ] Use of basic formulas (like `SUM`, `AVERAGE`, `COUNT`)
-- [ ] Simple charts or visualizations
+- [x] Data cleaning or organization
+- [x] Use of basic formulas (like `SUM`, `AVERAGE`, `COUNT`)
+- [x] Simple charts or visualizations
 
 ### Step 4: Submit Your Work
 
