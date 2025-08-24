@@ -4,7 +4,7 @@ This document is dedicated to all things orientation so you can be successful us
 
 # Syllabus
 
--  [ ] Review the [course syllabus](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/syllabus.md) 
+-  [x] Review the [course syllabus](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/syllabus.md) 
 
 # Weber State Microcredentials 
 
