@@ -53,7 +53,7 @@ _Modules will be released each Saturday for the following week._
 | Bi-Week   | 10/12      | **Fall Break** | 🍂 🍂 🍂 | Enjoy a week off!            |
 | Week 9  | 10/19      | **DOMO** | Online (Wed) / In Person @ DOMO    | Complete Module 9 course materials on GitHub              |               
 | Week 10  | 10/26      |  **Real World Analysis Kick Off**        | Online (Wed/Sat)            | Choose a business or non-profit to create a dashboard or analytic report                                         |
-| Week 11  | 11/02      | **Real World Analysis Kick Off** | Online (Wed/Sat)    | Work on your final project and prepare for your presentation               |
+| Week 11  | 11/02      | **Real World Analysis Project** | Online (Wed/Sat)    | Work on your final project and prepare for your presentation               |
 | Week 12  | 11/09      | **Real World Analysis Project** | Online (Wed/Sat)  | Work on your final project and prepare for your presentation                |
 | Week 13  | 11/16      | **Final Project Presentation & Graduation 🎉** | Online (Wed) / In Person    | Finish your final project and present at graduation! | 
      
