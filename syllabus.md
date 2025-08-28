@@ -42,16 +42,16 @@ _Modules will be released each Saturday for the following week._
 
 | **Week #** | **Week Of Date**   | **Class Description**                         | **Format**                  | **Homework**                                                                 |
 |----------|------------|-----------------------------------------------|----------------------------|-----------------------------------------------------------------------------|
-| Week 0   | 8/17       | **Orientation**                 | In Person Saturday 8/23 @ SeekWell | Complete Module 1 course materials on GitHub                               |
-| Week 1   | 8/24        | **Data & AI Foundations**                       | Online (Wed/Sat)            | Complete Module 2 course materials on GitHub                               |
-| Week 2   | 8/31        |  **Advanced Excel/Google Sheets**                               | Online (Wed/Sat)            | Complete Module 3 course materials on GitHub                               |
-| Week 3   | 9/7       |  **Intro to SQL**                     | Online (Wed/Sat)    | Complete Module 4 course materials on GitHub                               |
-| Week 4   | 9/14       |   **Tableau**    |  Online (Wed/Sat)  | Complete Module 5 course materials on GitHub                               |
-| Week 5   | 9/21       | **AI Tooling**  | Online (Wed) / Saturday 9/27 in person @ TBD, 10am - 2pm  | Complete Module 6 course materials on GitHub                               |
-| Week 6   | 9/28       | **Looker**  | Online (Wed/Sat)            | Complete Module 7 course materials on GitHub                                           |
-| Week 7   | 10/5      |  **Choose Your Adventure** | Online (Wed/Sat) | Complete Module 8 course materials on GitHub                                           |
+| Week 0   | 8/17       | **Orientation**                 | In Person Saturday 8/23 @ SeekWell | Complete Orientation materials                             |
+| Week 1   | 8/24        | **Data & AI Foundations**                       | Online (Wed/Sat)            | Complete Module 1 course materials on GitHub                               |
+| Week 2   | 8/31        |  **Advanced Excel/Google Sheets**                               | Online (Wed/Sat)            | Complete Module 2 course materials on GitHub                               |
+| Week 3   | 9/7       |  **Intro to SQL**                     | Online (Wed/Sat)    | Complete Module 3 course materials on GitHub                               |
+| Week 4   | 9/14       |   **Tableau**    |  Online (Wed/Sat)  | Complete Module 4 course materials on GitHub                               |
+| Week 5   | 9/21       | **AI Tooling**  | Online (Wed) / Saturday 9/27 in person @ TBD, 10am - 2pm  | Complete Module 5 course materials on GitHub                               |
+| Week 6   | 9/28       | **Looker**  | Online (Wed/Sat)            | Complete Module 6 course materials on GitHub                                           |
+| Week 7   | 10/5      |  **Choose Your Adventure** | Online (Wed/Sat) | Complete Module 7 course materials on GitHub                                           |
 | Bi-Week   | 10/12      | **Fall Break** | 🍂 🍂 🍂 | Enjoy a week off!            |
-| Week 8  | 10/19      | **DOMO** | Online (Wed) / Saturday 10/25 in person @ DOMO, 10am - 2pm   | Complete Module 9 course materials on GitHub              |               
+| Week 8  | 10/19      | **DOMO** | Online (Wed) / Saturday 10/25 in person @ DOMO, 10am - 2pm   | Complete Module 8 course materials on GitHub              |               
 | Week 9  | 10/26      |  **Real World Analysis Kick Off**        | Online (Wed/Sat)            | Choose a business or non-profit to create a dashboard or analytic report                                         |
 | Week 10  | 11/02      | **Real World Analysis Project** | Online (Wed/Sat)    | Work on your final project and prepare for your presentation               |
 | Week 11  | 11/09      | **Real World Analysis Project** | Online (Wed/Sat)  | Work on your final project and prepare for your presentation                |
