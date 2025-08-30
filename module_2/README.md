@@ -33,7 +33,7 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 >_Tip: Make timestamped comments as you watch—it’s like the video version of writing notes in the margins of a book._
 
-_Estimated total time to complete: 4 hours_
+_Estimated total time to complete: 5 hours_
 
 <a href="https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f" alt="Cleaning Data" width="500">
@@ -84,19 +84,36 @@ Visualizing data is a critical skill in data analytics. This section will guide 
 - [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
 - [ ] Complete the hands-on activity
 
+_Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
+
+
+
+<a href="https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/3c7c781f-1913-44f8-81a5-00982f0d4c6a" alt="Xlookup" width="700">
+</a>
+
+_Est. Time to Complete: (40 mins)_
+
+n this tutorial, you'll learn how to use XLOOKUP, a powerful Excel function for retrieving data from a table or range. You'll see practical examples of finding values based on criteria, handling errors gracefully, and searching data in both rows and columns. By the end of the video, you'll be confident in using XLOOKUP to simplify your data analysis and streamline your workflows in Excel.
+
+- [ ] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
+- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/XLOOKUP%20Excel%20Tutorial%20File.xlsx)
+- [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
+- [ ] Complete the hands-on activity
+
+---- 
+
+<a href="https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/5161aee9-6d0b-4043-acd9-2eb88b793cb6" alt="Conditional Formatting" width="700">
+</a>
+
+_Est. Time to Complete: (40 mins)_
+
+In this conditional formatting tutorial, you'll learn how to use Excel to automatically highlight data based on specific rules or conditions. We'll cover the basics of applying built-in formatting options, creating custom rules, and using formulas to dynamically format cells, rows, or columns. By the end of this tutorial, you'll be able to make your data visually appealing and easier to analyze with conditional formatting.
+
+- [ ] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
+- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
+- [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
+- [ ] Complete the hands-on activity
+
 ---
-
-## Assignment - complete by Saturday
-
-<img width="500" alt="Screenshot 2024-08-28 at 3 35 15 PM" src="https://github.com/user-attachments/assets/f5c9f15f-8631-41c7-b644-520372ad35a8">
-
-_Est. Time to Complete: (1.5 hrs)_
-
-In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
-
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
-- [ ] Complete the Dashboard and share in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/20) thread.
-- [ ] Include if/how you used AI as a tutor for this assignment as it relates to our [AI Policy](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/ai-usage.md). 
-
