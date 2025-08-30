@@ -4,7 +4,7 @@ This document is dedicated to all things orientation so you can be successful us
 
 # Syllabus
 
--  [ ] Review the [course syllabus](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/syllabus.md) 
+-  [ ] Review the [course syllabus](https://github.com/Tech-Moms/data_ai_fall_2025/blob/main/syllabus.md) 
 
 # Weber State Microcredentials 
 
@@ -12,7 +12,9 @@ This course is eligible for a microcredential through Weber State.
 
 <img width="1296" alt="Screenshot 2025-04-09 at 12 28 39 PM" src="https://github.com/user-attachments/assets/8178dbb9-87b1-43a7-aa5f-4296b26d1013" />
 
-- [ ] Complete the [Weber St registration & Enroll in the Tech-Moms 2.0 Data Analytics Course](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
+- [ ] Complete the [Weber St registration & Enroll in the Tech-Moms 2.0 Data Analytics Course](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1036&crn=262026560&cust=false)
+
+- [ ] Complete [Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
 
 # GitHub 
 

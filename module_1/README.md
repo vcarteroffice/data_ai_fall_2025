@@ -1,12 +1,5 @@
 # Module 1: AI (Artifical Intelligence) Foundations
 
-### Do Before Class:  
-
-_Edit the markdown file with an x in the checkbox when complete, then commit changes._
-
-- [ ] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
-- [ ] Complete the [Weber St Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
-
 ## Module Overview
 In this module, students will explore the foundations of Artificial Intelligence & Machine Learning (ML). Students will learn how ML uses data to make predictions and uncover patterns, the history and evolution of AI, and practical applications of AI tools in modern workflows. They will also gain hands-on experience using AI as a tutor and critiquing it's output compared with using Google or asking a human.
 
@@ -23,7 +16,7 @@ By the end of this module, students will:
 
 ---
 
-## Video Lessons - complete by Wednesday, January 15th
+## Video Lessons - complete by class Wednesday
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
@@ -37,7 +30,7 @@ _Estimated **total** time to complete: 1 hour_
 
 In this section, you will learn about Machine Learning. Machine Learning is a subset of AI that uses data to train algorithms to make predictions or identify patterns. Examples of ML applications: fraud detection, recommendation systems, predictive analytics.   
 
-- [x] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
+- [ ] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
 
 ----
 
@@ -77,7 +70,7 @@ In this section, you'll learn about neural networks. Neural networks are computa
 
 Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
 
-- [] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
+- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
 
 ----
 
