@@ -113,3 +113,16 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 - [ ] Complete the hands-on activity
 
 ---
+
+## Assignment - complete by Saturday
+
+_Est. Time to Complete: (5 hours)_
+
+- [ ] Complete Assignment 1 -> Found in `module_1` -> `assignment_1.md` 
+
+* Create an Excel / Google Sheet Dashboard using the Tech-Moms Survey Data
+  * Skills needed:
+     * Data cleaning 
+     * Functions, including using X-Lookup to join data from multiple tabs/tables 
+     * Analysis 
+     * Visualization 
