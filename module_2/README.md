@@ -35,8 +35,7 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 _Estimated total time to complete: 5 hours_
 
-<a href="https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498" target="_blank" rel="noopener noreferrer"><img width="1116" height="623" alt="Screenshot 2025-08-30 at 8 29 01 AM" src="https://github.com/user-attachments/assets/1948ce2f-d11c-49b0-96b3-1fd219ca5598" alt="Cleaning Data" width="700">
-</a>
+<img width="700" alt="Screenshot 2025-08-30 at 8 29 01 AM" src="https://github.com/user-attachments/assets/64ce980a-5b42-44c3-af33-77cbb4a7a51a" />
 
 _Est. Time to Complete: (40 mins)_
 
@@ -47,7 +46,7 @@ In this section, you will learn the importance of data cleaning as a foundationa
 - [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
 - [ ] Complete the hands-on activity
 ---
-<img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
+<img width="700" alt="Formuals" src="https://github.com/user-attachments/assets/b2ae1fe6-c38e-42c6-8b99-e6f96ff30529" />
 
 _Est. Time to Complete: (60 mins)_
 
@@ -60,7 +59,7 @@ This section introduces essential functions and formulas in Excel and Google She
 
 ---
 
-<img width="500" alt="Formulas" src="https://github.com/user-attachments/assets/c6895615-c093-4779-bde7-4d52bd74226a">
+<img width="700" alt="Pivot Tables" src="https://github.com/user-attachments/assets/e313bf83-8358-4908-9304-328d9289690f" />
 
 _Est. Time to Complete: (30 mins)_
 
@@ -72,7 +71,7 @@ Pivot tables are powerful tools for summarizing, analyzing, and exploring data. 
 
 ---
 
-<img width="500" alt="Charts" src="https://github.com/user-attachments/assets/b755d9fa-1b6e-443c-bce1-ab57d2a85d88">
+<img width="700" alt="Charts" src="https://github.com/user-attachments/assets/1c57ab20-c9c1-461b-a6ee-be04e4e0dc00" />
 
 _Est. Time to Complete: (30 mins)_
 
@@ -83,9 +82,7 @@ Visualizing data is a critical skill in data analytics. This section will guide 
 - [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
 - [ ] Complete the hands-on activity
 
-_Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
-
-
+---
 
 <a href="https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/3c7c781f-1913-44f8-81a5-00982f0d4c6a" alt="Xlookup" width="700">
