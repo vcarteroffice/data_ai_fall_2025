@@ -35,8 +35,7 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 _Estimated total time to complete: 5 hours_
 
-<a href="https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f" alt="Cleaning Data" width="500">
+<a href="https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498" target="_blank" rel="noopener noreferrer"><img width="1116" height="623" alt="Screenshot 2025-08-30 at 8 29 01 AM" src="https://github.com/user-attachments/assets/1948ce2f-d11c-49b0-96b3-1fd219ca5598" alt="Cleaning Data" width="700">
 </a>
 
 _Est. Time to Complete: (40 mins)_
