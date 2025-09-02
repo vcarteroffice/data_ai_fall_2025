@@ -1,5 +1,18 @@
 # Data Analytics & AI Vocabulary List
 
+## GitHub Terminology 
+
+| Term | Definition |
+|------|------------|
+| **Git** | Git is a distributed version control system that tracks changes in source code during software development. |
+| **GitHub** | GitHub is a web-based platform for hosting and managing Git repositories, facilitating collaboration and sharing code. |
+| **Repository** | A repository is a storage location for software projects, containing all files, code, and history of changes. |
+| **README** | A README file provides an overview and essential information about a project, typically written in Markdown. |
+| **Markdown** | Markdown is a lightweight markup language for creating formatted text using simple plain text syntax. |
+| **Fork** | Forking creates a personal copy of someone else's repository, allowing you to experiment without affecting the original. |
+| **Pull Request** | A pull request is a proposal to merge changes from one branch or fork into another branch or repository. |
+| **Octocat** | GitHub's mascot, a whimsical half-cat, half-octopus creature symbolizing creativity, collaboration, and the fun side of coding and open-source culture. |
+
 ## Descriptive Statistics
 
 | Term | Definition |
