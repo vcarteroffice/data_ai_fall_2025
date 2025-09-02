@@ -25,15 +25,15 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 
 ### Step Two: Clean the Data 
 
-- [ ] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
-- [ ] Format the analysis table as follows: 
+- [x] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
+- [x] Format the analysis table as follows: 
   *  Highlight column names and fill background color with the color of your choice
   * Add a filter
   * Freeze top row      
-- [ ] Review each column to understand the available options in each
-- [ ] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
-- [ ] Perform any additional data cleaning tasks as needed
-- [ ] Do you notice any data quality issues to make a note of? 
+- [x] Review each column to understand the available options in each
+- [x] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
+- [x] Perform any additional data cleaning tasks as needed
+- [x] Do you notice any data quality issues to make a note of? 
 
 ### Step Three: Start Analyzing (aka Asking Questions of the Data)
 
@@ -41,10 +41,10 @@ In a survey like this, it is often best to systematically analyze each question 
 
 For example: 
 
-- [ ] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
-- [ ] What is the count and ratio of survey respondents that answered via computer vs phone?
-- [ ] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
-- [ ] What is the average number of years respondents had been out of the workforce?
+- [x] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
+- [x] What is the count and ratio of survey respondents that answered via computer vs phone?
+- [x] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
+- [x] What is the average number of years respondents had been out of the workforce?
 - [ ] What was the average starting pay at the time of starting Tech-Moms?
 - [ ] What percentage of respondents are currently employed?
 - [ ] Among those that received a raise, what is the average % increase?
