@@ -55,7 +55,7 @@ This section introduces essential functions and formulas in Excel and Google She
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
 - [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Formula%20Excel%20Template.xlsx) 
 - [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1_m7bzlByhPAjYNglv_Vp6eK4sQxLVAaXDRAfp1yn7iw/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Complete the hands-on activity
 
 ---
 
