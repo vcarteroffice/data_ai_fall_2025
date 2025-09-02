@@ -1,5 +1,6 @@
 # Module 1: AI (Artifical Intelligence) Foundations
 
+
 ### Do Before Class:  
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
@@ -23,7 +24,7 @@ By the end of this module, students will:
 
 ---
 
-## Video Lessons - complete by Wednesday, January 15th
+## Video Lessons - complete by class Wednesday
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
@@ -37,7 +38,7 @@ _Estimated **total** time to complete: 1 hour_
 
 In this section, you will learn about Machine Learning. Machine Learning is a subset of AI that uses data to train algorithms to make predictions or identify patterns. Examples of ML applications: fraud detection, recommendation systems, predictive analytics.   
 
-- [x] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
+- [ ] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
 
 ----
 
