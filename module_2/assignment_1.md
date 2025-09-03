@@ -20,12 +20,12 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 - [x] If working in Excel, download to Excel
 - [x] Start by evaluating the columns to understand what data you're working with.
 - [x] Create a new tab,  “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
-- [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
-- [ ] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
+- [x] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
+- [x] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
 ### Step Two: Clean the Data 
 
-- [ ] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
+- [x] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
 - [ ] Format the analysis table as follows: 
   *  Highlight column names and fill background color with the color of your choice
   * Add a filter
