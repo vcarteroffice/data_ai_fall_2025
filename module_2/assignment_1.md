@@ -14,7 +14,7 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 
 ### Step One: Get to Know Your Data 
 
-- [ ] Review the [Tech-Moms 2023 Annual Report](https://www.tech-moms.org/_files/ugd/0e6ea4_4aa4f371aaaf4b2c81a1e384dfdfec02.pdf?index=true) - payment special attention to the survey results section
+- [x] Review the [Tech-Moms 2023 Annual Report](https://www.tech-moms.org/_files/ugd/0e6ea4_4aa4f371aaaf4b2c81a1e384dfdfec02.pdf?index=true) - payment special attention to the survey results section
 - [ ] Open the [Tech-Moms Survey Data 2024](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?gid=0#gid=0) spreadsheet in Google Sheets
 - [ ] If working in Google Sheet, make a copy & add your name at the end - i.e. "Tech-Moms Survey Data 2024 - Alyson La" 
 - [ ] If working in Excel, download to Excel
