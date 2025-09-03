@@ -26,12 +26,12 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 ### Step Two: Clean the Data 
 
 - [x] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
-- [ ] Format the analysis table as follows: 
+- [x] Format the analysis table as follows: 
   *  Highlight column names and fill background color with the color of your choice
   * Add a filter
   * Freeze top row      
-- [ ] Review each column to understand the available options in each
-- [ ] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
+- [x] Review each column to understand the available options in each
+- [x] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
 - [ ] Perform any additional data cleaning tasks as needed
 - [ ] Do you notice any data quality issues to make a note of? 
 
