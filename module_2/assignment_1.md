@@ -45,15 +45,15 @@ For example:
 - [x] What is the count and ratio of survey respondents that answered via computer vs phone?
 - [x] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
 - [x] What is the average number of years respondents had been out of the workforce?
-- [ ] What was the average starting pay at the time of starting Tech-Moms?
-- [ ] What percentage of respondents are currently employed?
-- [ ] Among those that received a raise, what is the average % increase?
-- [ ] What percentage of respondent's received a promotion since starting Tech-Moms? 
-- [ ] What percentage of respondent's have taken a new position since starting Tech-Moms?
-- [ ] What is the ratio of respondent's that are working Full-Time vs Part-Time vs Not Currently Employed
-- [ ] How many hours are respondent's working each week? (binned by hours)
-- [ ] What percentage are currently seeking employment?
-- [ ] etc 
+- [x] What was the average starting pay at the time of starting Tech-Moms?
+- [x] What percentage of respondents are currently employed?
+- [x] Among those that received a raise, what is the average % increase?
+- [x] What percentage of respondent's received a promotion since starting Tech-Moms? 
+- [x] What percentage of respondent's have taken a new position since starting Tech-Moms?
+- [x] What is the ratio of respondent's that are working Full-Time vs Part-Time vs Not Currently Employed
+- [x] How many hours are respondent's working each week? (binned by hours)
+- [x] What percentage are currently seeking employment?
+- [x] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participating in the Tech-Moms program. Find the average of each column to know it's rating out of 5 stars. 
 
