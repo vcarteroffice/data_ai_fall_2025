@@ -5,6 +5,7 @@
 2. 👯‍♀️ Networking - Prompt: When was the first time you used spreadsheet software? excel or google sheets? 
 3. 📝 Spreadsheet Terminology Pop Quiz 
 4. ⏮️ Review Video Lessons: Advanced Excel
-5. ☕ Break 
-6. 📆 Assignment Overview
-7. ❓ Q&A & Look Ahead
+5. (if time): Hands-On Activity in Breakout Groups: [Sample Expenses Dataset](https://docs.google.com/spreadsheets/d/196NCcQrv0lPIU-42aedIGv7Qojh2hbf0lShj7hh4ntI/edit?usp=sharing)
+6. ☕ Break 
+7. 📆 Assignment Overview
+8. ❓ Q&A & Look Ahead
