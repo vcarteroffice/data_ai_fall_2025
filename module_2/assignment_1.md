@@ -31,9 +31,9 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
   * Add a filter
   * Freeze top row      
 - [x] Review each column to understand the available options in each
-- [ ] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
-- [ ] Perform any additional data cleaning tasks as needed
-- [ ] Do you notice any data quality issues to make a note of? 
+- [x] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
+- [x] Perform any additional data cleaning tasks as needed
+- [x] Do you notice any data quality issues to make a note of? 
 
 ### Step Three: Start Analyzing (aka Asking Questions of the Data)
 
@@ -41,7 +41,7 @@ In a survey like this, it is often best to systematically analyze each question 
 
 For example: 
 
-- [ ] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
+- [x] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
 - [ ] What is the count and ratio of survey respondents that answered via computer vs phone?
 - [ ] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
 - [ ] What is the average number of years respondents had been out of the workforce?
