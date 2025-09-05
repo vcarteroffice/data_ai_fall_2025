@@ -65,9 +65,9 @@ _Est. Time to Complete: (30 mins)_
 
 Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
-- [ ] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
+- [x] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
+- [x] Complete the hands-on activity
 
 ---
 
@@ -77,10 +77,10 @@ _Est. Time to Complete: (30 mins)_
 
 Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
+- [x] Complete the hands-on activity
 
 ---
 
@@ -92,10 +92,10 @@ _Est. Time to Complete: (40 mins)_
 
 n this tutorial, you'll learn how to use XLOOKUP, a powerful Excel function for retrieving data from a table or range. You'll see practical examples of finding values based on criteria, handling errors gracefully, and searching data in both rows and columns. By the end of the video, you'll be confident in using XLOOKUP to simplify your data analysis and streamline your workflows in Excel.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/XLOOKUP%20Excel%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/XLOOKUP%20Excel%20Tutorial%20File.xlsx)
+- [x] Google Sheets users: Download the .xls file above and upload to Google Sheets 
+- [x] Complete the hands-on activity
 
 ---- 
 
@@ -107,10 +107,10 @@ _Est. Time to Complete: (40 mins)_
 
 In this conditional formatting tutorial, you'll learn how to use Excel to automatically highlight data based on specific rules or conditions. We'll cover the basics of applying built-in formatting options, creating custom rules, and using formulas to dynamically format cells, rows, or columns. By the end of this tutorial, you'll be able to make your data visually appealing and easier to analyze with conditional formatting.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
+- [x] Google Sheets users: Download the .xls file above and upload to Google Sheets 
+- [x] Complete the hands-on activity
 
 ---
 
@@ -118,7 +118,7 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 
 _Est. Time to Complete: (5 hours)_
 
-- [ ] Complete Assignment 1 -> Found in `module_2` -> `assignment_1.md` 
+- [] Complete Assignment 1 -> Found in `module_2` -> `assignment_1.md` 
 
 * Create an Excel / Google Sheet Dashboard using the Tech-Moms Survey Data
   * Skills needed:
