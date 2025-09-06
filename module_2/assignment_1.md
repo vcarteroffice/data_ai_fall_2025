@@ -51,9 +51,9 @@ For example:
 - [x] What percentage of respondent's received a promotion since starting Tech-Moms? 
 - [x] What percentage of respondent's have taken a new position since starting Tech-Moms?
 - [x] What is the ratio of respondent's that are working Full-Time vs Part-Time vs Not Currently Employed
-- [ ] How many hours are respondent's working each week? (binned by hours)
-- [ ] What percentage are currently seeking employment?
-- [ ] etc 
+- [x] How many hours are respondent's working each week? (binned by hours)
+- [x] What percentage are currently seeking employment?
+- [x] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participating in the Tech-Moms program. Find the average of each column to know it's rating out of 5 stars. 
 
