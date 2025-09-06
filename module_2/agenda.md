@@ -9,3 +9,17 @@
 6. ☕ Break 
 7. 📆 Assignment Overview
 8. ❓ Q&A & Look Ahead
+
+# In-Class Agenda: Saturday, Sept 6
+
+1. 👋 Welcome! 
+2. 🧹 Housekeeping 
+   - How to add projects to Weber State Portfolio 
+3. 💚 Google Sheet / Excel Questions 
+   - How to XLOOKUP
+   - Any other questions about the assignment 
+4. 👯‍♀️ Share & Tell - Breakout groups
+5. ☕ Break 
+6. 📆 Guest Speaker - Alyson La - [Add me on LinkedIn](https://www.linkedin.com/in/alysonla/) :) 
+7. 3️⃣ Module 3 drop 
+8. ❓ Q&A & Look Ahead
