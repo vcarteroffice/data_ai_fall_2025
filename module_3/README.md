@@ -1,4 +1,4 @@
-# Module 4: BI Tooling - Tableau
+# Module 3: BI Tooling - Tableau
 
 ## Overview
 Module 4 introduces students to Tableau, a powerful data visualization tool widely used in the data analytics field. This module will cover the basics of Tableau, including how to connect to data sources, explore and clean data, and create various types of visualizations. Students will learn how to use Tableau to communicate data insights effectively, focusing on practical skills that can be applied in real-world scenarios.
