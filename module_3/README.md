@@ -10,7 +10,7 @@ Module 4 introduces students to Tableau, a powerful data visualization tool wide
 3. Build dashboard
 4. Publish and share using Tableau Public
 
-## Video Lessons - Complete by class Wednesday, February 19th
+## Video Lessons - Complete by class Wednesday or Saturday
 
 _Est. total Time to Complete: 4 hours_
 
