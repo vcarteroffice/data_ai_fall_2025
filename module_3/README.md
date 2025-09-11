@@ -1,7 +1,7 @@
-# Module 4: BI Tooling - Tableau
+# Module 3: BI Tooling - Tableau
 
 ## Overview
-Module 4 introduces students to Tableau, a powerful data visualization tool widely used in the data analytics field. This module will cover the basics of Tableau, including how to connect to data sources, explore and clean data, and create various types of visualizations. Students will learn how to use Tableau to communicate data insights effectively, focusing on practical skills that can be applied in real-world scenarios.
+Module 3 introduces students to Tableau, a powerful data visualization tool widely used in the data analytics field. This module will cover the basics of Tableau, including how to connect to data sources, explore and clean data, and create various types of visualizations. Students will learn how to use Tableau to communicate data insights effectively, focusing on practical skills that can be applied in real-world scenarios.
 
 ## Learning Outcomes
 
@@ -10,7 +10,7 @@ Module 4 introduces students to Tableau, a powerful data visualization tool wide
 3. Build dashboard
 4. Publish and share using Tableau Public
 
-## Video Lessons - Complete by class Wednesday, February 19th
+## Video Lessons - Complete by class Wednesday or Saturday
 
 _Est. total Time to Complete: 4 hours_
 
@@ -64,4 +64,4 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 - [ ] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
 - [ ] Publish your completed workbook to Tableau Public
-- [ ]  Drop a link to your Tableau dashboard in this [discussion]() thread. 
+- [ ]  Drop a link to your Tableau dashboard in this [discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/18) thread. 
