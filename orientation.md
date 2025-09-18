@@ -16,6 +16,8 @@ This course is eligible for a microcredential through Weber State.
 
 - [ ] Complete [Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
 
+- [ ] You'll receive an email from Portfolium to set up your [Weber St Microcredential](https://tech-momsworkspace.slack.com/files/U07AACHH1L7/F09FUDJPJFN/microcredentials_step_by_step___1_.pdf)
+
 # GitHub 
 
 <img width="1220" alt="Screenshot 2025-01-24 at 4 22 32 PM" src="https://github.com/user-attachments/assets/a3fc4881-337d-4653-bfb3-ec236e445535" />
