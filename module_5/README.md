@@ -2,7 +2,7 @@
 
 ## Overview 
 
-In this module, students will learn the fundamentals of data storytelling — how to transform raw data into compelling narratives that inform and inspire an audience. 
+In this module, students will learn the fundamentals of data storytelling — how to transform dashboards into compelling narratives that inform and inspire an audience. 
 
 ## Learning Outcomes 
 
