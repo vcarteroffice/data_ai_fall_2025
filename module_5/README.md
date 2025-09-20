@@ -40,4 +40,4 @@ _Estimated Time to Complete 30 mins_
 _Estimated Time to Complete 8 hours_ 
 
 - [ ] Complete the Data Storytelling Assignment - "makeover" a dashboard you have already made into a "data story". You can do this by adding charts into a slide deck to display as a presentation OR do this directly in Looker by adding each "insight" / visualization to the new page.
-- [ ] When complete drop your link into this discussion thread. 
+- [ ] When complete drop your link into [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/44) thread. 
