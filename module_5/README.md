@@ -27,6 +27,12 @@ _Estimated Time to Complete 1.5 hrs_
 
 - [ ] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
 
+- [ ] Check out this "data scrollstory" - [The Pixar Story](https://pixar-scroll-tale.lovable.app/)
+
+- [ ] Read Kelsey's blog post - [Mothers in the Workforce](https://kelseyataylor.github.io/kelsey-taylor-portfolio/mothers-in-the-workforce.html)
+
+- [ ] Read through this resource: [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers)
+
 ## Assignment - complete by Saturday
 
 _Estimated Time to Complete 8 hours_ 
