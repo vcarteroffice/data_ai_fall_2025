@@ -15,9 +15,9 @@ In this module, students will learn the fundamentals of data storytelling — ho
 
 _Estimated Time to Complete 1.5 hrs_ 
 
-- [x] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w) 
+- [ ] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w) 
 
-- [x] Watch video [How to turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
+- [ ] Watch video [How to turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
 
 - [ ] Re-watch Kelsey's Video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
 
