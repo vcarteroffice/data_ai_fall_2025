@@ -15,23 +15,23 @@ In this module, students will learn the fundamentals of data storytelling — ho
 
 _Estimated Time to Complete 1.5 hrs_ 
 
-- [ ] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w) 
+- [X] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w) 
 
-- [ ] Watch video [How to turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
+- [X] Watch video [How to turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
 
-- [ ] Re-watch Kelsey's Video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
+- [X] Re-watch Kelsey's Video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
 
 ## Additional Resources 
 
 _Estimated Time to Complete 30 mins_
 
-- [ ] Review this slidedeck - [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
+- [X] Review this slidedeck - [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
 
-- [ ] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+- [X] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
 
 - [ ] Check out this "data scrollstory" - [The Pixar Story](https://pixar-scroll-tale.lovable.app/)
 
-- [ ] Read Kelsey's blog post - [Mothers in the Workforce](https://kelseyataylor.github.io/kelsey-taylor-portfolio/mothers-in-the-workforce.html)
+- [X] Read Kelsey's blog post - [Mothers in the Workforce](https://kelseyataylor.github.io/kelsey-taylor-portfolio/mothers-in-the-workforce.html)
 
 - [ ] Read through this resource: [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers)
 
