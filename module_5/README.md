@@ -19,7 +19,7 @@ _Estimated Time to Complete 1.5 hrs_
 
 - [x] Watch video [How to turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
 
-- [ ] Re-watch Kelsey's Video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
+- [x] Re-watch Kelsey's Video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
 
 ## Additional Resources 
 
