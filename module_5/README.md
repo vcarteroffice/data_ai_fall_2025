@@ -25,7 +25,7 @@ _Estimated Time to Complete 1.5 hrs_
 
 _Estimated Time to Complete 30 mins_
 
-- [ ] Review this slidedeck - [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
+- [x] Review this slidedeck - [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
 
 - [ ] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
 
