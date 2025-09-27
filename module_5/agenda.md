@@ -1,4 +1,4 @@
-# In-Class Agenda, Saturday 9/27
+# In-Class Agenda: Saturday, Sept 27
 
 * 👋 Welcome!
 * 🤖 AI Fun  
