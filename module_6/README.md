@@ -83,6 +83,6 @@ Additional resources:
 
 _Estimated time to complete: 6 hours_
 
-- [ ] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2025/blob/module_6/module_6/assignment/README.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/51). 
+- [ ] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2025/blob/main/module_6/assignment/README.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/51). 
 
   
