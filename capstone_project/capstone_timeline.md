@@ -6,7 +6,7 @@
 - [ ] Data in hand and start analysis
 - [ ] Get to know your data (create a data dictionary if needed)
 - [ ] Clean the data
-- [ ] Do exploritory analysis - ask questions of the data 
+- [ ] Do exploratory analysis - ask questions of the data 
 
 ## Week 2
 
