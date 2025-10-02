@@ -29,4 +29,4 @@
 * Tell us about the biggest challenges you faced during the program and how you got through them.
 * Share your key takeaways--what did you learn that will have the biggest impact on you?
 * Let us know what your plans are--are you leaning toward a specific role and what are your steps to get there?
-- [ ] Graduation at SeekWell: **Saturday May 3rd. 10am - 2pm.** Families Welcome & Lunch Provided!  
+- [ ] Graduation at SeekWell: **Saturday November 22rd. 10am - 2pm.** Families Welcome & Lunch Provided!  
