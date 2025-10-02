@@ -1,4 +1,4 @@
-# In-class Agenda: Wednesday, October 1
+# In-Class Agenda: Wednesday, October 1
 
 - 👋 Welcome
 - 🧹 Housekeeping: 
