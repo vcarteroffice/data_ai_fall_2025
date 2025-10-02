@@ -1,7 +1,7 @@
 # In-Class Agenda: Wednesday, October 1
 
 - 👋 Welcome
-- 👯 Networking - Prompt: Are you are morning person or a night owl? 
+- 👯 Networking - Introduce yourself + Prompt: Are you are morning person or a night owl? 
 - 🤖 AI Life Hack
 - ⏮️ Video Review - SQL
 - ☕ Break 
