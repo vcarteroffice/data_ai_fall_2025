@@ -55,7 +55,7 @@ _Modules will be released each Saturday for the following week._
 | Week 9  | 10/26      |  **Real World Analysis Kick Off**        | Online (Wed/Sat)            | Choose a business or non-profit to create a dashboard or analytic report                                         |
 | Week 10  | 11/02      | **Real World Analysis Project** | Online (Wed/Sat)    | Work on your final project and prepare for your presentation               |
 | Week 11  | 11/09      | **Real World Analysis Project** | Online (Wed/Sat)  | Work on your final project and prepare for your presentation                |
-| Week 12  | 11/16      | **Final Project Presentation & Graduation 🎉** | Online (Wed) / In Person @ SeekWell, 10am - 2pm   | Finish your final project and present at graduation! | 
+| Week 12  | 11/16      | **Final Project Presentation & Graduation 🎉** | Online (Wed) / In Person @ SeekWell, 11/22: 10am - 2pm   | Finish your final project and present at graduation! | 
      
 
   
