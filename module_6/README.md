@@ -66,13 +66,13 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 _Estimated time to complete: 1.5 hours_
 
-- [ ] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
+- [X] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
 
 ## Hands-On Practice:  
 
 _Estimated time to complete: 2 hours_
 
-- [ ] Pick [a SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do 2 hours of hands SQL practice 
+- [X] Pick [a SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do 2 hours of hands SQL practice 
 
 Additional resources: 
 
@@ -83,6 +83,6 @@ Additional resources:
 
 _Estimated time to complete: 6 hours_
 
-- [ ] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2025/blob/main/module_6/assignment/README.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/51). 
+- [X] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2025/blob/main/module_6/assignment/README.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/51). 
 
   
