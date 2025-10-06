@@ -23,6 +23,8 @@ Goal = Spend 10 hours on the topic of your choice.
 **Videos watched:**   
 
 - [X] [How Much SQL, Python, Excel & Tableau Is Enough? | Realistic Expectations](https://youtu.be/pMQSgriJqR8?si=PMLdOlHn4clVygAP)
+- [ ] [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
+- [X] [Lovable Tutorial for Beginners](https://youtu.be/6VejFu1nEYs?si=e9nI7hhyD8jiCkpi)
 
 
 # Assignment: 
