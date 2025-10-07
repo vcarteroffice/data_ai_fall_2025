@@ -26,6 +26,7 @@ Goal = Spend 10 hours on the topic of your choice.
 - [ ] [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
 - [X] [Lovable Tutorial for Beginners](https://youtu.be/6VejFu1nEYs?si=e9nI7hhyD8jiCkpi)
 - [ ] [Lovable FULL Tutorial - For COMPLETE Beginners](https://youtu.be/YLjopoEnPi8?si=askhAGlHU0SPFUey)
+- [ ] [Lovable.dev Tutorial & Full Site Build w/Supabase ](https://youtu.be/2MYwWu4u_ZM?si=t__pL0eA-SkqC_h1)
 
 
 # Assignment: 
