@@ -25,10 +25,11 @@ Goal = Spend 10 hours on the topic of your choice.
 - [X] [How Much SQL, Python, Excel & Tableau Is Enough? | Realistic Expectations](https://youtu.be/pMQSgriJqR8?si=PMLdOlHn4clVygAP)
 - [ ] [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
 - [X] [Lovable Tutorial for Beginners](https://youtu.be/6VejFu1nEYs?si=e9nI7hhyD8jiCkpi)
+- [ ] [Lovable FULL Tutorial - For COMPLETE Beginners](https://youtu.be/YLjopoEnPi8?si=askhAGlHU0SPFUey)
 
 
 # Assignment: 
 
 - [ ] Add your completed project to [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/64).
-- [ ] Check out last semester's Choose Your Adventure projects [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197)
+- [X] Check out last semester's Choose Your Adventure projects [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197)
 - [ ] Celebrate! Learning how to learning is an important part of learning! 
