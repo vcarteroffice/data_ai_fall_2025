@@ -15,8 +15,8 @@ Goal = Spend 10 hours on the topic of your choice.
 
 # Video Lessons: 
 
-- [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
-- [ ] Ideas for videos could be Alex the Analyst videos on advanced Excel topics, intermediate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
+- [X] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
+- [X] Ideas for videos could be Alex the Analyst videos on advanced Excel topics, intermediate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 <br>  
 
@@ -29,7 +29,7 @@ Goal = Spend 10 hours on the topic of your choice.
 - [X] [Vibe Coding Fundamentals In 33 minutes](https://youtu.be/iLCDSY2XX7E?si=hF2_w3djSc7hDkry)
 - [X] [Lovable Tutorial for Beginners](https://youtu.be/6VejFu1nEYs?si=e9nI7hhyD8jiCkpi)
 - [X] [Lovable FULL Tutorial - For COMPLETE Beginners](https://youtu.be/YLjopoEnPi8?si=askhAGlHU0SPFUey)
-- [ ] [Lovable.dev Tutorial & Full Site Build w/Supabase ](https://youtu.be/2MYwWu4u_ZM?si=t__pL0eA-SkqC_h1)
+- [X] [Lovable.dev Tutorial & Full Site Build w/Supabase ](https://youtu.be/2MYwWu4u_ZM?si=t__pL0eA-SkqC_h1)
 
 
 # Assignment: 
