@@ -31,6 +31,10 @@ Goal = Spend 10 hours on the topic of your choice.
 - [X] [Lovable FULL Tutorial - For COMPLETE Beginners](https://youtu.be/YLjopoEnPi8?si=askhAGlHU0SPFUey)
 - [X] [Lovable.dev Tutorial & Full Site Build w/Supabase ](https://youtu.be/2MYwWu4u_ZM?si=t__pL0eA-SkqC_h1)
 
+**Not a video, but a project I'm working on:**
+
+- [ ] [Alex the Analyst Hands-on Data Analysis Projects](https://www.analystbuilder.com/projects)
+
 
 # Assignment: 
 
