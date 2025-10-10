@@ -24,16 +24,16 @@ Goal = Spend 10 hours on the topic of your choice.
 
 - [X] [How Much SQL, Python, Excel & Tableau Is Enough? | Realistic Expectations](https://youtu.be/pMQSgriJqR8?si=PMLdOlHn4clVygAP)
 - [ ] [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) - *got through SQL and Power BI. Still working through the rest.*
-- [X] [A Beginner's Guide to LinkedIn with Robbyn Scribner 10.5.22](https://youtu.be/LDqhzq9mRP4?si=nB4AwNogfHBLESq1)
+- [X] [A Beginner's Guide to LinkedIn with Robbyn Scribner 10.5.22](https://youtu.be/LDqhzq9mRP4?si=nB4AwNogfHBLESq1) - *this video got the ball rolling on the employment aspect of my life. I worked on my Linkedin profile, started a resume, created a brand/logo and new email, and started applying for jobs at the state.*
 - [X] [What is Vibe Coding, should you Learn It?](https://youtu.be/Fky04OXWaxY?si=JqSZ6G_uYklfmOaq)
-- [X] [Vibe Coding Fundamentals In 33 minutes](https://youtu.be/iLCDSY2XX7E?si=hF2_w3djSc7hDkry)
+- [X] [Vibe Coding Fundamentals In 33 minutes](https://youtu.be/iLCDSY2XX7E?si=hF2_w3djSc7hDkry) - *super helpful video to watch before jumping into lovable or other AI coding platforms!*
 - [X] [Lovable Tutorial for Beginners](https://youtu.be/6VejFu1nEYs?si=e9nI7hhyD8jiCkpi)
 - [X] [Lovable FULL Tutorial - For COMPLETE Beginners](https://youtu.be/YLjopoEnPi8?si=askhAGlHU0SPFUey)
 - [X] [Lovable.dev Tutorial & Full Site Build w/Supabase ](https://youtu.be/2MYwWu4u_ZM?si=t__pL0eA-SkqC_h1)
 
 **Not a video, but a project I'm working on:**
 
-- [ ] [Alex the Analyst Hands-on Data Analysis Projects](https://www.analystbuilder.com/projects) - *doing the motor vehicle crash project.*
+- [ ] [Alex the Analyst Hands-on Data Analysis Projects](https://www.analystbuilder.com/projects) - *Highly recommended! I'm doing the motor vehicle crash project and it's such good practice.*
 
 
 # Assignment: 
