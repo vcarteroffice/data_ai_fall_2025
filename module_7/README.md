@@ -23,7 +23,7 @@ Goal = Spend 10 hours on the topic of your choice.
 **Videos watched:**   
 
 - [X] [How Much SQL, Python, Excel & Tableau Is Enough? | Realistic Expectations](https://youtu.be/pMQSgriJqR8?si=PMLdOlHn4clVygAP)
-- [ ] [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
+- [ ] [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) - *got through SQL and Power BI. Still working through the rest.*
 - [X] [A Beginner's Guide to LinkedIn with Robbyn Scribner 10.5.22](https://youtu.be/LDqhzq9mRP4?si=nB4AwNogfHBLESq1)
 - [X] [What is Vibe Coding, should you Learn It?](https://youtu.be/Fky04OXWaxY?si=JqSZ6G_uYklfmOaq)
 - [X] [Vibe Coding Fundamentals In 33 minutes](https://youtu.be/iLCDSY2XX7E?si=hF2_w3djSc7hDkry)
@@ -33,7 +33,7 @@ Goal = Spend 10 hours on the topic of your choice.
 
 **Not a video, but a project I'm working on:**
 
-- [ ] [Alex the Analyst Hands-on Data Analysis Projects](https://www.analystbuilder.com/projects)
+- [ ] [Alex the Analyst Hands-on Data Analysis Projects](https://www.analystbuilder.com/projects) - *doing the motor vehicle crash project.*
 
 
 # Assignment: 
