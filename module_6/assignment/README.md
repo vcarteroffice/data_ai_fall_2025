@@ -98,9 +98,9 @@ Note: Your numbers here should match your Excel/Google Sheets analysis.
 4. **Etc** 
      - [ ] Answer at least 10 additional questions using SQL
 
-## Step 3: Submission
+## Step 4: Submission
 
-- [ ] Email a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
+- [ ] Drop in a link to your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/51).
 
 #### How to Share a Deep Note Link:
 
