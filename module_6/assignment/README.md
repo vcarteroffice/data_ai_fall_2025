@@ -8,7 +8,7 @@ In this assignment, you will use Deep Note, a data analysis tool, to explore the
 
 Deepnote.com is a collaborative data science notebook platform designed for data analytics and data science work. It allows users to write and run code in SQL (as well as Python and R) directly within the browser, making it accessible and easy to use without requiring software installation.
 
-- [x]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
+- [ ]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
 - [ ] Download the `.csv` file of the Tech Moms applicant dataset [here](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/assignment_2/Cleaned_Tech_Moms_Application_Data_9.12.2024.csv).
 - [ ] In Deep Note, create a new project.
 - [ ] Upload the `.csv` file into your project.
