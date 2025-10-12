@@ -22,6 +22,6 @@ Goal = Spend 10 hours on the topic of your choice.
 
 # Assignment: 
 
-- [ ] Add your completed project to [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/64).
+- [x] Add your completed project to [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/64).
 - [x] Check out last semester's Choose Your Adventure projects [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197)
 - [x] Celebrate! Learning how to learning is an important part of learning! 
