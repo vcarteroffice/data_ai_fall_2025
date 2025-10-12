@@ -15,11 +15,13 @@ Goal = Spend 10 hours on the topic of your choice.
 
 # Video Lessons: 
 
-- [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
+- [x] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
+- [x] Watch Lovable Tutorial by No Code MBA: https://www.youtube.com/watch?v=yH3DyG7jqRo&t=59s.
+- [x] Create a Lovable Website
 - [ ] Ideas for videos could be Alex the Analyst videos on advanced Excel topics, intermediate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
 
 - [ ] Add your completed project to [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/64).
-- [ ] Check out last semester's Choose Your Adventure projects [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197)
-- [ ] Celebrate! Learning how to learning is an important part of learning! 
+- [x] Check out last semester's Choose Your Adventure projects [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197)
+- [x] Celebrate! Learning how to learning is an important part of learning! 
