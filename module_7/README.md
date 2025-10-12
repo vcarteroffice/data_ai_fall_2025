@@ -17,7 +17,7 @@ Goal = Spend 10 hours on the topic of your choice.
 
 - [x] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
 - [x] Watch Lovable Tutorial by No Code MBA: https://www.youtube.com/watch?v=yH3DyG7jqRo&t=59s.
-- [x] Create a Lovable Website
+- [x] Create an app on Lovable Website
 - [ ] Ideas for videos could be Alex the Analyst videos on advanced Excel topics, intermediate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
