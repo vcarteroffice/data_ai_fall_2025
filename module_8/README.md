@@ -24,7 +24,7 @@ _Total estimated time to complete: ~10 hours_
 
 ### Domo Overview 
 
-![2](https://github.com/user-attachments/assets/d193e93f-146f-4174-9ae0-1b3a40fa7268)
+<img width="750" src="https://github.com/user-attachments/assets/d193e93f-146f-4174-9ae0-1b3a40fa7268">
 
 _Est time to complete: ~1 hour_  
 
@@ -35,7 +35,7 @@ In this first video series you are introduced to the instructor, provided an ove
 
 ### Data Acquisition 
 
-![3](https://github.com/user-attachments/assets/bcf72810-b112-48eb-ac03-5e5e4b1948c3)
+<img width="750" src="https://github.com/user-attachments/assets/bcf72810-b112-48eb-ac03-5e5e4b1948c3">
 
 _Est time to complete: ~1 hour_
 
@@ -45,7 +45,7 @@ In this series, you'll be introduced to Domo’s data connectors and explore how
 
 ### Data Transformation 
 
-![4](https://github.com/user-attachments/assets/3d501ddb-cbed-4fd8-a6a8-395dcaabc455)
+<img width="750" src="https://github.com/user-attachments/assets/3d501ddb-cbed-4fd8-a6a8-395dcaabc455">
 
 _Est time to complete: ~2 hours_
 
@@ -55,7 +55,7 @@ In this next series, you'll explore the difference between ETL and SQL, followed
 
 ### Data Exploration  
 
-![5](https://github.com/user-attachments/assets/abc2a780-f578-43e4-90b6-cc51252cbfd7)
+<img width="750" src="https://github.com/user-attachments/assets/abc2a780-f578-43e4-90b6-cc51252cbfd7">
 
 _Est time to complete: ~30 mins_
 
@@ -65,7 +65,7 @@ This short section focuses on data exploration in Domo. You’ll learn how to se
 
 ### Data Visualization 
 
-![6](https://github.com/user-attachments/assets/0f9a0a9f-e927-4a97-8393-f3b4e8a25e79)
+<img width="750" src="https://github.com/user-attachments/assets/0f9a0a9f-e927-4a97-8393-f3b4e8a25e79">
 
 _Est time to complete: ~3 hours_
 
@@ -75,8 +75,7 @@ This section covers data visualization in Domo, starting with an introduction to
 
 ### Dashboarding 
 
-![7](https://github.com/user-attachments/assets/bea60f2d-b2e6-486c-bbcd-5e0633509ab2)
-
+<img width="750" src="https://github.com/user-attachments/assets/bea60f2d-b2e6-486c-bbcd-5e0633509ab2">
 
 _Est time to complete: ~2 hours_
 
