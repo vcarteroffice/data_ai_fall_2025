@@ -2,9 +2,9 @@
 
 ## Week 1 
 
-- [ ] Confirm your project 
-- [ ] Data in hand and start analysis
-- [ ] Get to know your data (create a data dictionary if needed)
+- [x] Confirm your project 
+- [x] Data in hand and start analysis
+- [x] Get to know your data (create a data dictionary if needed)
 - [ ] Clean the data
 - [ ] Do exploratory analysis - ask questions of the data 
 
